@@ -11,3 +11,4 @@
 - Meo git minh tam dac nhat: squash trước khi rebase
 - -> mục đích: để gom các commit tương tự nhau lại sau đó rebase để tránh phải resolve conflict nhiều lần
 Qui - Them dong moi 
+Qui - them dong moi 2
