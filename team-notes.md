@@ -3,6 +3,7 @@
 - wip
 - sua ti
 - them nua nua
+- them nua nua nua nua
 
 ## Ghi chu cua <Thinh>
 - Meo git minh tam dac nhat: git reflog, phao cứu sinh để check log
