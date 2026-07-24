@@ -3,7 +3,7 @@
 
 ## Ghi chu cua <Thinh>
 - Meo git minh tam dac nhat: git reflog, phao cứu sinh để check log
-- Meo git minh tam dac nhat: git squash, gom commit rác thành 1 commit duy nhất
+- Meo git minh tam dac nhi: git reflog, phao cứu sinh để check log
 
 ## Ghi chu cua <Qui>
 - Meo git minh tam dac nhat: squash trước khi rebase
